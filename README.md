@@ -7,7 +7,7 @@ Example use: scndspectrum_poster.py
 
 Get data of the second solar spectrum here: http://www.irsol.usi.ch/data/data_archive/data/SSSatlas.txt
 
-Parameters used to create the image file on wikimedia commonshttps://commons.wikimedia.org/wiki/File:Second_Solar_Spectrum.png:
+Parameters used to create the image file on wikimedia commons https://commons.wikimedia.org/wiki/File:Second_Solar_Spectrum.png:
 
 (You will need some memory!!)
 
